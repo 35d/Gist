@@ -1,0 +1,3 @@
+[submodule "test-flight"]
+	path = test-flight
+	url = https://gist.github.com/35d/54ed18e4b6a5f837da26d989eb1db5fa
