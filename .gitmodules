@@ -1,3 +1,9 @@
 [submodule "test-flight"]
 	path = test-flight
 	url = https://gist.github.com/35d/54ed18e4b6a5f837da26d989eb1db5fa
+[submodule "heroku-db-config"]
+	path = heroku-db-config
+	url = https://gist.github.com/35d/b923c2fa7c856a05ebafcaa28315ad71
+[submodule "vscode-setting"]
+	path = vscode-setting
+	url = https://gist.github.com/35d/9713850f8aea4a3d3f1de4074c57cff9
