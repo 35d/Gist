@@ -13,3 +13,6 @@
 [submodule "VSCode"]
 	path = VSCode
 	url = https://gist.github.com/35d/9713850f8aea4a3d3f1de4074c57cff9
+[submodule "RSpec"]
+	path = RSpec
+	url = https://gist.github.com/35d/3ba5582967654c828f7a70424d742d77
