@@ -7,6 +7,6 @@
 [submodule "ffmpeg"]
 	path = ffmpeg
 	url = https://gist.github.com/35d/7da423805c916d28164b5923d4bab289
-[submodule "👩‍💻VVSCode-Setting"]
-	path = 👩‍💻VVSCode-Setting
+[submodule "👩‍💻VSCode-Setting"]
+	path = 👩‍💻VSCode-Setting
 	url = https://gist.github.com/35d/9713850f8aea4a3d3f1de4074c57cff9
