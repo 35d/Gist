@@ -13,3 +13,6 @@
 [submodule "RSpec"]
 	path = RSpec
 	url = https://gist.github.com/35d/3ba5582967654c828f7a70424d742d77
+[submodule "npm"]
+	path = npm
+	url = https://gist.github.com/35d/ab8f8a0e7da4a4d08f4c4191e594a174
