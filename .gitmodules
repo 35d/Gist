@@ -16,3 +16,6 @@
 [submodule "npm"]
 	path = npm
 	url = https://gist.github.com/35d/ab8f8a0e7da4a4d08f4c4191e594a174
+[submodule "android"]
+	path = android
+	url = https://gist.github.com/35d/45aed67809d9d939a1f97a956d2ef599
